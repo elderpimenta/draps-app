@@ -16,6 +16,8 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
     Elder Pimenta
   </author>
+  
+  <splash src="resources/splash/ios/Default-2436h.png" />
     
   <platform name="ios">
       
