@@ -3,11 +3,11 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "br.med.tw.phonedraps"
     versionCode = "10"
-    version     = "1.0.2" >
+    version     = "1.0.3" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Draps 1.0.2</name>
+  <name>Draps</name>
 
   <description>
       Teste do iPhone X
