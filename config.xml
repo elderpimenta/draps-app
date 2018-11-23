@@ -37,7 +37,16 @@
         <splash height="2208" src="resources/splash/ios/Default-736h.png" width="1242" />
         <splash height="1242" src="resources/splash/ios/Default-Landscape-736h.png" width="2208" />
         -->
+
+<preference name="permission" value="none" />
+<preference name="phonegap-version" value="3.7.0" />
+<preference name="orientation" value="default" />
+<preference name="target-device" value="universal" />
+<preference name="fullscreen" value="true" />
       
+<gap:plugin name="org.apache.cordova.splashscreen" />
+      
+      <!--
         <preference name="SplashScreen" value="splash" />
         <preference name="StatusBarOverlaysWebView" value="true" />
         <preference name="StatusBarBackgroundColor" value="#000000" />
@@ -45,7 +54,8 @@
         <preference name="phonegap-version" value="cli-7.1.0" />
         <preference name="SplashScreenDelay" value="3000" />
         <preference name="AutoHideSplashScreen" value="true" />
-        
+       -->
+      
     <splash src="resources/splash/ios/Default@2x~iphone~anyany.png" />
     <splash src="resources/splash/ios/Default@2x~iphone~comany.png" />
     <splash src="resources/splash/ios/Default@2x~iphone~comcom.png" />
@@ -54,7 +64,9 @@
     <splash src="resources/splash/ios/Default@3x~iphone~comany.png" />
     <splash src="resources/splash/ios/Default@2x~ipad~anyany.png" />
     <splash src="resources/splash/ios/Default@2x~ipad~comany.png" />
-        
+   
+      
+      
     </platform>
 
 </widget>
