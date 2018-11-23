@@ -41,6 +41,8 @@
         <preference name="StatusBarBackgroundColor" value="#000000" />
         <preference name="StatusBarStyle" value="lightcontent" />
         <preference name="phonegap-version" value="cli-7.1.0" />
+        <preference name="SplashScreenDelay" value="3000" />
+        <preference name="AutoHideSplashScreen" value="true" />
         
         <!-- 1125x2436 -->
         <splash src="resources/splash/ios/Default@3x~iphone~comany.png" />
