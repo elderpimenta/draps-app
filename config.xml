@@ -34,13 +34,14 @@
         <splash height="1334" src="resources/splash/ios/Default-667h.png" width="750" />
         <splash height="2208" src="resources/splash/ios/Default-736h.png" width="1242" />
         <splash height="1242" src="resources/splash/ios/Default-Landscape-736h.png" width="2208" />
-
+        -->
+      
         <preference name="SplashScreen" value="splash" />
         <preference name="StatusBarOverlaysWebView" value="true" />
         <preference name="StatusBarBackgroundColor" value="#000000" />
         <preference name="StatusBarStyle" value="lightcontent" />
         <preference name="phonegap-version" value="cli-7.1.0" />
-        -->
+        
         <!-- 1125x2436 -->
         <splash src="resources/splash/ios/Default-2436h.png" />
         
