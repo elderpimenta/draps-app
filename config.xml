@@ -43,7 +43,8 @@
         <preference name="phonegap-version" value="cli-7.1.0" />
         
         <!-- 1125x2436 -->
-        <splash src="resources/splash/ios/Default-2436h.png" />
+        <splash src="resources/splash/ios/Default@3x~iphone~comany.png" />
+        <!-- <splash src="resources/splash/ios/Default-2436h.png" /> -->
         
     </platform>
 
