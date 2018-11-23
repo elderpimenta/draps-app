@@ -17,7 +17,7 @@
     Elder Pimenta
   </author>
   
-  <splash src="resources/splash/ios/Default-2436h.png" />
+  <splash src="Default-2436h.png" />
     
   <platform name="ios">
       
